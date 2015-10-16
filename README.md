@@ -4,14 +4,14 @@ Appends express server module with pong response on {namespace}/ping request.
 
 ## Install
 
-You can install this package with `npm install ping-pong`.
+You can install this package with `npm install the-ping-pong`.
 
 ## Usage
 
 ```javascript
 var app = express();
 
-require('pingpong')(app);
+require('the-ping-pong')(app);
 ```
 
 or
@@ -21,7 +21,7 @@ var app = express();
 
 var namespace = 'api/';
 
-require('pingpong')(namespace, app);
+require('the-ping-pong')(namespace, app);
 ```
 
 ## License
