@@ -1,6 +1,6 @@
 {
   "name": "the-ping-pong",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js module for appending app with ping-pong api",
   "main": "index.js",
   "scripts": {
