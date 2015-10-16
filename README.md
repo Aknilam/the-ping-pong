@@ -11,7 +11,7 @@ You can install this package with `npm install ping-pong`.
 ```javascript
 var app = express();
 
-require('pingpong')(app);
+require('the-ping-pong')(app);
 ```
 
 or
@@ -21,7 +21,7 @@ var app = express();
 
 var namespace = 'api/';
 
-require('pingpong')(namespace, app);
+require('the-ping-pong')(namespace, app);
 ```
 
 ## License
